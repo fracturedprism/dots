@@ -1,0 +1,3 @@
+-i
+--no-check-certificate
+--default-search "ytsearch"
