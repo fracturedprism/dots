@@ -1,0 +1,3 @@
+[submodule "quotes.txt"]
+	path = quotes.txt
+	url = https://github.com/fracturedprism/quotes.txt
