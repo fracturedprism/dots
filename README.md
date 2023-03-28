@@ -32,9 +32,10 @@ My own personal dotfiles, still a work in progress.
 #### Chromium only
 
 - AutoplayStopper
+- Advanced Font Settings
 
 ### Fonts
 
 - Noto Sans
 - Cascadia Code (PL)
-- Learning Curve
+- Learning Curve (Included in this repo)
