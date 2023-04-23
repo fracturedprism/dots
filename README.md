@@ -15,7 +15,7 @@ My own personal dotfiles, still a work in progress.
 #### General
 
 - [UBlock Origin](https://github.com/gorhill/uBlock) [firefox](https://addons.mozilla.org/en-GB/firefox/addon/ublock-origin/) [chromium](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)
-- Windscribe (switch off adblocker) [firefox](https://addons.mozilla.org/en-US/firefox/addon/windscribe/) [chromium](https://chrome.google.com/webstore/detail/windscribe-free-proxy-and/hnmpcagpplmpfojmgmnngilcnanddlhb)
+- [Windscribe (switch off adblocker)](https://windscribe.com/) [firefox](https://addons.mozilla.org/en-US/firefox/addon/windscribe/) [chromium](https://chrome.google.com/webstore/detail/windscribe-free-proxy-and/hnmpcagpplmpfojmgmnngilcnanddlhb)
 - [Turn Off The Lights](https://www.turnoffthelights.com/) [firefox](https://addons.mozilla.org/en-US/firefox/addon/turn-off-the-lights/) [chromium](https://chrome.google.com/webstore/detail/turn-off-the-lights/bfbmjmiodbnnpllbbbfblcplfjjepjdn)
 - [Bitwarden](https://bitwarden.com/) [firefox](https://addons.mozilla.org/en-US/firefox/addon/bitwarden-password-manager/) [chromium](https://chrome.google.com/webstore/detail/bitwarden-free-password-m/nngceckbapebfimnlniiiahkandclblb)
 - [Decentraleyes](https://decentraleyes.org/) [firefox](https://addons.mozilla.org/en-US/firefox/addon/decentraleyes/) [chromium](https://chrome.google.com/webstore/detail/decentraleyes/ldpochfccmkkmhdbclfhpagapcfdljkj)
