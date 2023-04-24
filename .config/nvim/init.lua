@@ -42,10 +42,10 @@ function togglerelativenumber()
 end
 
 function replacequotes()
-	vim.cmd('silent %s/“/"/g')
-	vim.cmd('silent %s/”/"/g')
-	vim.cmd("silent %s/’/'/g")
-	vim.cmd("silent %s/‘/'/g")
+	vim.cmd('%s/“/"/g')
+	vim.cmd('%s/”/"/g')
+	vim.cmd("%s/’/'/g")
+	vim.cmd("%s/‘/'/g")
 end
 
 function fixwhitespace()
