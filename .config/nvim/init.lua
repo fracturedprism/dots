@@ -108,6 +108,7 @@ vim.opt.timeout = true
 vim.opt.timeoutlen = 500
 vim.opt.laststatus = 3
 -- vim.opt.showtabline = 2
+
 -- Restore deafult vim mouse behaviour
 vim.opt.mousemodel="extend"
 
